@@ -1,10 +1,11 @@
-<h1>🤝 Hi there,</h1>
-<h2>I’m Valentin</h2>
+<h1>🤝 Hi there, I’m Valentin!</h1>
+
 <p>🤙 I’m interested in full stack software development</p>
 <p>🥇 I’m currently learning Python at www.softuni.bg</p>
 <p>📫 You can reach me here https://linkedin.com/in/валентин-вакрилов-95903819b</p>
 
-<h3>Skills</h3>
+<h2>Skills</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,django,postgres,docker,vscode,nodejs,postman,)](https://skillicons.dev)
 
 <!---
